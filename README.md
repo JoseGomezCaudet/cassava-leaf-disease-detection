@@ -1,4 +1,4 @@
-# cassava-leaf-disease-detection
+# Cassava Leaf Disease Detection
 
 
 Este proyecto fue presentado en la competición de Kaggle con la que comparte nombre. Presentado por una universidad Makerere, de Uganda, su objetivo es clasificar fotografías de la planta de la yuca para identificar posibles enfermedades y así facilitar estos cultivos en la zona. La yuca, importado su cultivo de Sudamérica, supone gran parte de la agricultura africana y las enfermedades detectadas implican inmensas pérdidas o enfermedades en los consumidores.
